@@ -1,0 +1,36 @@
+.locationInfo{
+    background-color: rgba(239, 239, 239, 1);
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+.location{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.selectedLocation{
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 100%;
+    height: 120px;
+    text-align: left;
+}
+.vehicleType{
+    border: 1px solid red;
+    display: flex;
+    margin-top: 4px;
+}
+.vehicleType p{
+    text-align: center;
+    margin: 5px;
+    font-size: 17px;
+    margin-top: 15px;
+}
+.vehicleType img{
+    width: 15%;
+}
+.locationFromTO{
+    font-size: 20px;
+}
