@@ -1,4 +1,4 @@
-# full-stack-client-mamamun009
+# Grocery Hub project with react
 (Grocery Hub)
 This an application that I builded with react-js and nodeMongo for backend.
 This ia a grocery shop.
